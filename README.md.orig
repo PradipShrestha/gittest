@@ -1,0 +1,10 @@
+gittest
+=======
+Changes
+test2
+<<<<<<< HEAD
+Test2
+=======
+Test1
+>>>>>>> origin/master
+
